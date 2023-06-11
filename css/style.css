@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+/* ヘッダー */
+#header {
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+
+#header img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#header-title {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+}
+
+#header-title h1 {
+    color: white;
+}
